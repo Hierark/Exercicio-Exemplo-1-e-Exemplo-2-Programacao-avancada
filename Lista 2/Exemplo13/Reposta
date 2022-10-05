@@ -1,0 +1,11 @@
+Reposta da 13 questão:
+
+A assinatura de um método é a maneira de identificar um 
+método de forma única. Em linguagens onde vários métodos 
+podem ter o mesmo nome, você precisa ter outra forma de 
+evitar ambiguidade e o compilador precisa saber qual dos
+métodos com mesmo nome você está chamando.
+
+Ex.: visibilidade: tipo de permissão ao método;
+retorno: tipo de retorno ou void se não tiver retorno;
+parâmetros: atributos utilizados.
